@@ -2,7 +2,7 @@
 
 # Modelling Foodback
 
-This model use to classify image based on the input. By using the model, will predict which class the food in the image belongs to among the 69 classes modeled.
+This model use to classify image based on the input. By using the model, will predict which class the food in the image belongs to among the 114 classes modeled.
 
 # foodback_modelling.ipynb
 
